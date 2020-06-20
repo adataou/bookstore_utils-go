@@ -1,4 +1,4 @@
-module github.com/adataou/bookstore_utils-go.git
+module github.com/adataou/bookstore_utils-go
 
 go 1.14
 
